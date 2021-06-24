@@ -1,0 +1,166 @@
+body {
+	font-family: Arial;
+}
+
+
+.header-box {
+	/*border: solid thin;*/
+	margin-left: 40px;
+	height: 25vh;
+	width: 95%;
+	background: #35d8aa;
+
+}
+
+
+.link-box {
+	/*border: solid thin;*/
+	height: 6vh;
+	width: 95%;
+	margin-left: 40px;
+	background: #3b3a3a;
+
+}
+
+.link {
+	padding-top: 1px;
+	
+}
+
+.link ul li {
+	list-style: none;
+	display: inline-block;
+	margin: 0px 20px;
+	position: relative;
+}
+
+.link ul li a {
+	color: #fff;
+	text-decoration: none;
+	
+}
+
+.link a:hover {
+	color: #35d8aa;
+}
+
+.left-box {
+	/*border: solid thin;*/
+	margin-left: 40px;
+	height:110vh; 
+	width:30%;
+	background:#f2f2f2 ;
+}
+
+
+.right-box {
+	/*border: solid thin;*/
+	width: 64.9%;
+	height: 110vh;
+}
+/*
+.right-box-align {
+
+}*/
+
+.right-box1 {
+	background: #b7b7b7;
+	height:20vh; 
+	width: 97%;
+	margin: 0px auto;
+	/*border: solid thin;*/
+	}
+
+.main {
+	display: flex;
+}
+
+
+.footer-box {
+	/*border: solid thin;*/
+	height: 20vh;
+	width: 95%;
+	margin-left: 40px;
+	background: #d7d6d6;
+	position: absolute;
+	
+}
+
+
+
+/*for small boxes*/
+
+.left-box1 {
+	/*border: solid thin;*/
+	background: #b7b7b7;
+	height:20vh; 
+	width:90%;
+	margin: 0px auto;
+}
+
+.left-box2 {
+	background: #b7b7b7;
+	height: 10vh;
+	width: 90%;
+	margin: 20px auto;
+
+}
+
+.left-box3 {
+	background: #b7b7b7;
+	height: 10vh;
+	width: 90%;
+	margin: 20px auto;
+
+}
+
+.left-box4 {
+	background: #b7b7b7;
+	height: 10vh;
+	width: 90%;
+	margin: 20px auto;
+}
+
+/*it ends here*/
+
+
+
+/*for text in left box*/
+
+.mywebsite {
+	color: white;
+	font-size: 100%;
+	/*font-family: Arial;*/
+	text-align: center;
+	padding-top:40px;
+}
+
+.bp1 {
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.rbp1 {
+	margin-left: 20px;
+}
+
+/*This for paragraph in the left box*/
+.pp1 {
+	padding-left: 40px;
+}
+
+.pp2 {
+	padding-left: 40px;
+}
+
+/*it ends here*/
+
+
+/*for text in footer*/
+
+.pp3 {
+	text-align: center;
+	padding-top: 60px;
+}
+
+/*the end */
